@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for strfry on 2025-05-15T02:37:58Z
+# fly.toml app configuration file generated for strfry on 2025-05-15T02:57:30Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'strfry'
-primary_region = 'sin'
+primary_region = 'syd'
 
 [build]
 
